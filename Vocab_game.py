@@ -53,7 +53,6 @@ def show_result_dialog(ans1, ans2,ans3,ans4):
 
     # ตรวจข้อ 3
     if u_ans3 == "mango":
-    ":
         st.success("✅ ข้อ 3: ถูกต้อง")
         score += 1
     else:
